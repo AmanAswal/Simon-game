@@ -1,2 +1,4 @@
 # Simon-game
-A game made by specially using jQuery
+A game made by specially using jQuery.
+
+steps to follow:
