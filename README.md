@@ -8,3 +8,4 @@ c) repeat step (b).
 d) repeat steps a,b & c until i understood the code.
 e) give my touch to the game website.
 f) add a favicon.
+e) add a user manual in form of video and article link.
